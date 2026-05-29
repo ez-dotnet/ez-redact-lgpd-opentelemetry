@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EZ.Redact.Lgpd.OpenTelemetry/EZ.Redact.Lgpd.OpenTelemetry.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EZ.Redact.Lgpd.OpenTelemetry.UnitTests/EZ.Redact.Lgpd.OpenTelemetry.UnitTests.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/EZ.Redact.Lgpd.OpenTelemetry.SampleApi/EZ.Redact.Lgpd.OpenTelemetry.SampleApi.csproj" />
+  </Folder>
+</Solution>
